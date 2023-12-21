@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1125px;
+    margin: auto;
+    padding: 0px 20px;
+    background-color: #F2CEDA;
+
+}
+
+.header_btn {
+    width: 165px;
+    height: 49px;
+    top: 25px;
+    left: 1205px;
+    border-radius: 5px;
+    background-color: #D23166;
+    color: white;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: solid 1px #D23166;
+    cursor: pointer;
+
+
+}
+
+.header_logo {
+    width: 79px;
+    height: 79px;
+}
+
+.header_item {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.item_list {
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box1 {
+    padding: 100px;
+    background-color: #F2CEDA;
+    width: 1600px;
+    height: 550px;
+    opacity: 0.3px;
+
+}
+
+.ice_cream {
+    width: 597px;
+    height: 597px;
+    top: 100px;
+    left: 500px;
+    position: absolute;
+
+
+}
+
+.p {
+    width: 665px;
+    height: 130px;
+    top: 307px;
+    left: 254px;
+    opacity: 0.9px;
+
+}
+
+.box1_btn {
+    width: 165px;
+    height: 49px;
+    top: 125px;
+    left: 1205px;
+    border-radius: 5px;
+    background-color: #D23166;
+    color: white;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: solid 1px #D23166;
+    cursor: pointer;
+}
+
+.box2 {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.box2_img {
+    width: 1117px;
+    height: 200px;
+    top: 962px;
+    left: 252px;
+    border-radius: 7px;
+    border: 1px;
+
+}
+
+.a {
+    width: 665px;
+    height: 364px;
+    top: 285px;
+    left: 254px;
+    border-radius: 5px;
+
+}
+
+.ice {
+    width: 894.68px;
+    height: 742.36px;
+    top: 178px;
+    left: 662px;
+
+}
+
+.a1 {
+    width: 642px;
+    height: 256.71px;
+    top: 1403.59px;
+    left: 252px;
+    border-radius: 5px;
+    padding: 120px;
+}
+
+.box3_btn {
+    width: 165px;
+    height: 49px;
+    top: 125px;
+    left: 1205px;
+    border-radius: 5px;
+    background-color: #D23166;
+    color: white;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    border: solid 1px #D23166;
+    cursor: pointer;
+}
+
+.box3 {
+    height: 480px;
+    top: 1190px;
+
+}
+
+.box3_img {
+    width: 655px;
+    height: 656.8px;
+    top: 790px;
+    left: 500px;
+    position: absolute;
+
+}
+
+.box4 {
+    width: 1160px;
+    height: 1506px;
+    top: 1944px;
+    left: 249px;
+    background-color: white;
+}
+
+.h {
+    text-align: center;
+}
+
+.box4_item {
+    display: flex;
+    gap: 15px;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.box4_a1 {
+    width: 1119px;
+    height: 415px;
+    top: 2140px;
+    left: 251px;
+}
+
+.box4_text {
+    width: 420px;
+    height: 234px;
+    top: 1600px;
+    margin-left: 600px;
+    border-radius: 5px;
+
+}
+
+.box4_img {
+    position: absolute;
+    margin-top: -300px;
+    /* margin-left: -100px; */
+}
+
+.box5_a1 {
+    width: 1119px;
+    height: 415px;
+    top: 2140px;
+    left: 251px;
+}
+
+.box5_text {
+    text-align: right;
+    width: 420px;
+    height: 234px;
+    top: 1600px;
+    border-radius: 5px;
+
+}
+
+.box5_img {
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 600px;
+    /* margin-left: -100px; */
+}
+
+.box4 {
+    width: 1160px;
+    height: 1506px;
+    top: 1944px;
+    left: 249px;
+    background-color: white;
+}
+
+.h {
+    text-align: center;
+}
+
+.box4_item {
+    display: flex;
+    gap: 15px;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.box6_a1 {
+    width: 1119px;
+    height: 415px;
+    top: 2140px;
+    left: 251px;
+}
+
+.box6_text {
+    width: 420px;
+    height: 234px;
+    top: 1600px;
+    margin-left: 600px;
+    border-radius: 5px;
+
+}
+
+.box6_img {
+    position: absolute;
+    margin-top: -300px;
+    /* margin-left: -100px; */
+}
+
+/* .box7 {
+    width: 1596px;
+    height: 2346px;
+    top: 1807px;
+    border: 1px;
+
+} */
+.box7_img{
+    position: relative;
+    margin-top: -1600px;
+    z-index: -2;
+    margin-left:-250px ;
+}
